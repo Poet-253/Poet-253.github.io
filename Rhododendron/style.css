@@ -1,4 +1,4 @@
-/* Mobile first design*/
+/* Mobile first design */
 *{
     box-sizing: border-box;
 
@@ -18,7 +18,7 @@ header {
     position: absolute;
     width: 100vw;
     height: 100vh;
-    background-image: url("Pacific-Rhododendron.jpeg");
+    background-image: url("Pacific Rhododendron.jpeg");
     background-size: cover;
 }
 
