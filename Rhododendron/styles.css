@@ -38,6 +38,8 @@ header {
     font-size: 2em
 }
 
+/* Rest of the Mobile baseline layout here */
+
 @media screen and (orientation: landscape) {
 
     #PacificRhododendron {
@@ -53,4 +55,7 @@ header {
         width: 45vw;
         
     }
+
+    /* Rest of the desktop baseline layout here*/
+    
 }
