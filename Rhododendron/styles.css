@@ -35,7 +35,7 @@ header {
     left: 1em;
     color: white;
     width: calc(100vw - 2em);
-    font-size: 2em
+    font-size: 3em
 }
 
 /* Rest of the Mobile baseline layout here */
@@ -57,5 +57,5 @@ header {
     }
 
     /* Rest of the desktop baseline layout here*/
-    
+
 }
